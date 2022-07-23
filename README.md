@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teacherivanilda
+- 👋 Hi, I’m @teacherIvanilda
 - 👀 I’m interested in learning about games
 - - 🌱 I’m currently learning about games in scratch and javaScript
 - 💞️ I’m looking to collaborate with my students
